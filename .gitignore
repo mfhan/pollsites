@@ -1,26 +1,26 @@
-	.vscode/
-	Data_Dictionary__Population_and_Languages_of_the_Limited_English_Proficient__LEP__Speakers_by_Community_Districts.xlsx
-	NYCVoting_Poll_Sites.pdf
-	arabic_df.csv
-	arabic_sites.csv
-	basic_index.html
-	cvalep.csv
-	cvalep3.csv
-	day_of.csv
-	early.csv
-	haitian_df.csv
-	haitian_sites.csv
-	italian_df.csv
-	italian_sites.csv
-	lep_nyc.csv
-	nyc_cvalep.csv
-	nyccec-poll-site-language-assistance-program-methodology.pdf
-	russia_sites.csv
-	russian.csv
-	sample_index.html
-	style.css
-	voting.ipynb
-	voting2.ipynb
+.vscode/
+Data_Dictionary__Population_and_Languages_of_the_Limited_English_Proficient__LEP__Speakers_by_Community_Districts.xlsx
+NYCVoting_Poll_Sites.pdf
+arabic_df.csv
+arabic_sites.csv
+basic_index.html
+cvalep.csv
+cvalep3.csv
+day_of.csv
+early.csv
+haitian_df.csv
+haitian_sites.csv
+italian_df.csv
+italian_sites.csv
+lep_nyc.csv
+nyc_cvalep.csv
+nyccec-poll-site-language-assistance-program-methodology.pdf
+russia_sites.csv
+russian.csv
+sample_index.html
+style.css
+voting.ipynb
+voting2.ipynb
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
